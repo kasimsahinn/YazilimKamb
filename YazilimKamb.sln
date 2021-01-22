@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class-YazilimKampi", "Class
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods-YazilimKamp", "Methods-YazilimKamp\Methods-YazilimKamp.csproj", "{A6C5BD8B-832E-4D26-B364-7669B6ACDA8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods App - YazilimKampi", "Metods App - YazilimKampi\Methods App - YazilimKampi.csproj", "{D41412D2-27E9-4AD4-8DD2-E73B4C70770B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods App - YazilimKampi", "Metods App - YazilimKampi\Methods App - YazilimKampi.csproj", "{D41412D2-27E9-4AD4-8DD2-E73B4C70770B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferans - YazilimKampi", "DegerVeReferans - YazilimKampi\DegerVeReferans - YazilimKampi.csproj", "{89E7E30A-5F36-4727-9C98-C0EA996885CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferans - YazilimKampi", "DegerVeReferans - YazilimKampi\DegerVeReferans - YazilimKampi.csproj", "{89E7E30A-5F36-4727-9C98-C0EA996885CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1- YazilimKampi", "OOP1- YazilimKampi\OOP1- YazilimKampi.csproj", "{326AC773-5947-4978-9F0F-3A76CFA6E711}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections - YazilimKampi", "Collections - YazilimKampi\Collections - YazilimKampi.csproj", "{0A631674-A3B0-48DA-8503-B4FC0BC04E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro - YazilimKampi", "GenericsIntro - YazilimKampi\GenericsIntro - YazilimKampi.csproj", "{F271A83A-2523-478E-96B8-C9CD13016724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{89E7E30A-5F36-4727-9C98-C0EA996885CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89E7E30A-5F36-4727-9C98-C0EA996885CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89E7E30A-5F36-4727-9C98-C0EA996885CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326AC773-5947-4978-9F0F-3A76CFA6E711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326AC773-5947-4978-9F0F-3A76CFA6E711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326AC773-5947-4978-9F0F-3A76CFA6E711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326AC773-5947-4978-9F0F-3A76CFA6E711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A631674-A3B0-48DA-8503-B4FC0BC04E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A631674-A3B0-48DA-8503-B4FC0BC04E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A631674-A3B0-48DA-8503-B4FC0BC04E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A631674-A3B0-48DA-8503-B4FC0BC04E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F271A83A-2523-478E-96B8-C9CD13016724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F271A83A-2523-478E-96B8-C9CD13016724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F271A83A-2523-478E-96B8-C9CD13016724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F271A83A-2523-478E-96B8-C9CD13016724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
