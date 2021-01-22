@@ -8,9 +8,21 @@ namespace GenericsIntro___YazilimKampi
         {
             // Aslında Arkaplanda T olarak atadığımız yeni değeri stringe çeviriyoruz
             MyList<string> isimler = new MyList<string> ();
+
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
+            isimler.Add("Kasım");
             isimler.Add("Kasım");
 
-            
+            foreach (var isim in isimler.Items)
+            {
+                Console.WriteLine(isim);
+            }
 
         }
     }

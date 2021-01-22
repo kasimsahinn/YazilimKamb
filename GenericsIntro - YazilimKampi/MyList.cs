@@ -25,5 +25,10 @@ namespace GenericsIntro___YazilimKampi
             items[items.Length - 1] = item;
         }
 
+        public T[] Items
+        {
+            get { return items; }
+        }
+
     }
 }

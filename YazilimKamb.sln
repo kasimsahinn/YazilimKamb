@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1- YazilimKampi", "OOP1-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections - YazilimKampi", "Collections - YazilimKampi\Collections - YazilimKampi.csproj", "{0A631674-A3B0-48DA-8503-B4FC0BC04E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro - YazilimKampi", "GenericsIntro - YazilimKampi\GenericsIntro - YazilimKampi.csproj", "{F271A83A-2523-478E-96B8-C9CD13016724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro - YazilimKampi", "GenericsIntro - YazilimKampi\GenericsIntro - YazilimKampi.csproj", "{F271A83A-2523-478E-96B8-C9CD13016724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary - YazilimKamp", "MyDictionary\MyDictionary - YazilimKamp.csproj", "{3349D207-0E84-497B-B215-F4A9810DF8B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{F271A83A-2523-478E-96B8-C9CD13016724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F271A83A-2523-478E-96B8-C9CD13016724}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F271A83A-2523-478E-96B8-C9CD13016724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3349D207-0E84-497B-B215-F4A9810DF8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3349D207-0E84-497B-B215-F4A9810DF8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3349D207-0E84-497B-B215-F4A9810DF8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3349D207-0E84-497B-B215-F4A9810DF8B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
