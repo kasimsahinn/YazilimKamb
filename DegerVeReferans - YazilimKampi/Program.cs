@@ -28,6 +28,8 @@ namespace DegerVeReferans___YazilimKampi
             // array, class, interface = Referans tiplerdir.
 
             
+
+            
         }
     }
 }

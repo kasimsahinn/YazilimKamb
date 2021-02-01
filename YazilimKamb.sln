@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DENEME", "DENEME\DENEME.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor Deneme", "Constructor Deneme\Constructor Deneme.csproj", "{9918D501-95CB-4E18-9B20-0B785DB35AAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2 - YazilimKampi", "OOP2 - YazilimKampi\OOP2 - YazilimKampi.csproj", "{569824E2-B2DF-4131-B99E-5C8F99D1EE99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2 - YazilimKampi", "OOP2 - YazilimKampi\OOP2 - YazilimKampi.csproj", "{569824E2-B2DF-4131-B99E-5C8F99D1EE99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3 - YazilimKampi", "OOP3 - YazilimKampi\OOP3 - YazilimKampi.csproj", "{A97B0502-6A36-410D-A116-CC75584D2987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3 - YazilimKampi", "OOP3 - YazilimKampi\OOP3 - YazilimKampi.csproj", "{A97B0502-6A36-410D-A116-CC75584D2987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev - YazilimKampi", "odev - YazilimKampi\odev - YazilimKampi.csproj", "{619A5078-9D4D-4946-9E21-930A5717EF38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A97B0502-6A36-410D-A116-CC75584D2987}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A97B0502-6A36-410D-A116-CC75584D2987}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A97B0502-6A36-410D-A116-CC75584D2987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619A5078-9D4D-4946-9E21-930A5717EF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619A5078-9D4D-4946-9E21-930A5717EF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619A5078-9D4D-4946-9E21-930A5717EF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619A5078-9D4D-4946-9E21-930A5717EF38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
